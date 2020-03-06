@@ -11,4 +11,14 @@ From 3 different categories of 'beauty and personal care', 'Premium beauty and p
 -	SU:M37 (LG Household & Health Care Ltd)
 
 ## Yearly brand growth
+!(https://github.com/TravisH0301/GVIP/raw/master/yearly_growth.png)
 
+## Recent brand growth
+!(https://github.com/TravisH0301/GVIP/raw/master/recent_growth.png)
+
+## Limitations
+### Limited market data
+Due to limited Chinese market data, the brands that launched after 2018 could not be considered and the emerging brands were selected based on their performance upto 2018.
+### Difference in Retail Value RSP between premium and non-premium brands
+Premium brands are advantaged against non-premium brands in terms of the retail value growth due to their nature of higher selling prices.
+This difference was not compromised in selecting emerging brands based on growth in the retail value.
