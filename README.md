@@ -11,10 +11,10 @@ From 3 different categories of 'beauty and personal care', 'Premium beauty and p
 -	SU:M37 (LG Household & Health Care Ltd)
 
 ## Yearly brand growth
-![image](https://github.com/TravisH0301/GVIP/raw/master/yearly_growth.png)
+![image](https://github.com/TravisH0301/GVIP/asset/raw/master/yearly_growth.png)
 
 ## Recent brand growth
-![image](https://github.com/TravisH0301/GVIP/raw/master/recent_growth.png)
+![image](https://github.com/TravisH0301/GVIP/asset/raw/master/recent_growth.png)
 
 ## Limitations
 ### Limited market data
