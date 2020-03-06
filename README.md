@@ -1,5 +1,5 @@
 # The Global Victoria Intellect Program
-As part of the global victoria intellect program 2020, conducting an internation market research analysis, data processing and data visualisation were done using Python to identify the top 5 emerging beauty brands in the Chinese market. <Br>
+As part of the global victoria intellect program 2020, conducting an international market research analysis, data processing and data visualisation were done using Python to identify the top 5 emerging beauty brands in the Chinese market. <Br>
 The data was obtained from Passport, a market intelligence software.
 
 ## Top 5 emerging brands
