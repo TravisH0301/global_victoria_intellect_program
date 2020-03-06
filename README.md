@@ -1,5 +1,5 @@
 # The Global Victoria Intellect Program
-As part of the global victoria intellect program, conducting an internation market research analysis, data processing and data visualisation were done using Python to identify the top 5 emerging beauty brands in the Chinese market. <Br>
+As part of the global victoria intellect program 2020, conducting an internation market research analysis, data processing and data visualisation were done using Python to identify the top 5 emerging beauty brands in the Chinese market. <Br>
 The data was obtained from Passport, a market intelligence software.
 
 ## Top 5 emerging brands
@@ -11,10 +11,10 @@ From 3 different categories of 'beauty and personal care', 'Premium beauty and p
 -	SU:M37 (LG Household & Health Care Ltd)
 
 ## Yearly brand growth
-!(https://github.com/TravisH0301/GVIP/raw/master/yearly_growth.png)
+![image](https://github.com/TravisH0301/GVIP/raw/master/yearly_growth.png)
 
 ## Recent brand growth
-!(https://github.com/TravisH0301/GVIP/raw/master/recent_growth.png)
+![image](https://github.com/TravisH0301/GVIP/raw/master/recent_growth.png)
 
 ## Limitations
 ### Limited market data
